@@ -2,6 +2,7 @@
 
 
 A robust, Python-powered automation suite designed to secure enterprise database environments and streamline analytical workflows. This project bridges the gap between **Production Data Security** and **Data Analytics Accessibility**.
+<img width="1057" height="354" alt="email" src="https://github.com/user-attachments/assets/9500a0ca-347b-4b09-bd88-d7d353bd42e2" />
 
 ## 🌟 Key Features
 
