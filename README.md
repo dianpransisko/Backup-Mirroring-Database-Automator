@@ -31,15 +31,16 @@ The system follows a modular architecture to ensure high availability and data i
 * **Automation**: Windows Task Scheduler & Batch Scripting
 
 ### Update "Tech Stack"
-Pastikan bagian Tech Stack Anda sekarang mencakup C++:
 
-```markdown
+
 ## 🛠️ Tech Stack
 * **Core Logic**: Python 3.10+
 * **Interface/Launcher**: C++ (Standard 11)
 * **Database**: PostgreSQL 14+
 * **Automation**: Windows Task Scheduler & Batch Scripting
 
+* 
+```markdown
 ## 🚀 Installation & Setup
 1. **Clone the repository**:
    ```bash
