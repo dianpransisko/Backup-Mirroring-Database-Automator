@@ -11,7 +11,7 @@ echo.
 cd /d "C:\Users\ASUS\Downloads\DATA ANALYST\backups"
 
 :: 2. Jalankan Python dan simpan status error-nya
-"C:\Users\ASUS\AppData\Local\Programs\Python\Python310\python.exe" backup_db.py
+"lokasiinstal python \python.exe" backup_db.py
 
 :: 3. Cek apakah perintah di atas sukses (ErrorLevel 0 = Sukses)
 if %ERRORLEVEL% EQU 0 (
