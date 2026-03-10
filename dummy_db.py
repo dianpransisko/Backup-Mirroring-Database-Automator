@@ -12,7 +12,7 @@ DB_NAME = os.getenv("DB_NAME")
 DB_USER = os.getenv("DB_USER")
 DB_PASS = os.getenv("DB_PASS")
 BACKUP_DIR = os.getenv("BACKUP_DIR")
-PSQL_PATH = r"C:\Program Files\PostgreSQL\18\bin\psql.exe" 
+PSQL_PATH = r".....psql.exe"  # <-- Ganti dengan path lengkap ke psql.exe di sistem Anda 
 
 # Database tujuan untuk Analyst
 DB_MIRROR = "db_mirror_analyst"
