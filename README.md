@@ -1,8 +1,17 @@
 # 🚀 Enterprise PostgreSQL Backup & Mirroring Automator
 
+
+
+
+
+
+
+
+![Email Notification Screenshot](email-notif.png)
+
+
+
 A robust, Python-powered automation suite designed to secure enterprise database environments and streamline analytical workflows. This project bridges the gap between **Production Data Security** and **Data Analytics Accessibility**.
-
-
 
 ## 🌟 Key Features
 

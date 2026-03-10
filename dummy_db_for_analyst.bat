@@ -11,10 +11,11 @@ echo memperbarui database db_mirror_analyst...
 echo.
 
 :: 1. Masuk ke folder kerja (Folder tempat mirror_db.py berada)
-cd /d "C:\Users\ASUS\Downloads\DATA ANALYST\backups"
+cd /d " ............backups"
 
 :: 2. Jalankan Python untuk Mirroring
-"C:\Users\ASUS\AppData\Local\Programs\Python\Python310\python.exe" dummy_db.py
+"lokasiinstal python \python.exe" dummy_db.py 
+:: Ganti dengan path ke python.exe di sistem Anda
 
 :: 3. Cek Status Keberhasilan
 if %ERRORLEVEL% EQU 0 (
